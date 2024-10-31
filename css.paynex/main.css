@@ -1,0 +1,61 @@
+.paynex_logo {
+    width: 25px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.paynex {
+    display: flex;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 300px;
+
+}
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+}
+header {
+    display: flex;
+    box-shadow: 3px 20px 50px black;
+    border-radius: 50px;
+    width: 75%;
+    height: 55px;
+    justify-content: center;
+}
+.enter {
+    display: flex;
+}
+.signup {
+    background-color:rgb(99, 66, 215);
+    height: 55px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    border-radius: 70px;
+}
+.enter {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.paynex div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.head {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
